@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.input {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2vw;
+}
+
+.input > button{
+  width: 100px;
+  height: 40px;
+}
